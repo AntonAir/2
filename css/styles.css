@@ -1,0 +1,29 @@
+:root {
+  /* шрифты */
+  --font-main: 'Roboto', sans-serif;
+  --font-logo: 'Raleway', sans-serif;
+
+  /* цвет шрифта */
+  --color-main: #757575;
+  --color-title: #212121;
+  --color-aссуте: #2196F3;
+
+  /* цвет фона */
+
+
+}
+
+body {
+  font-family: var(--font-main);
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+
+  color: var(--color-main);
+  
+}
+
+/* header */
+
+
+
